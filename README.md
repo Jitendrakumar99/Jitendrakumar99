@@ -1,3 +1,6 @@
+
+
+
 <h1 align="center">Hi 👋, I'm Jitendra Kumar</h1>
 <h3 align="center">A Passionate Full Stack Developer With React Native from India</h3>
 
@@ -79,6 +82,11 @@
 </p>
 
 ---
+
+<h3 align="left">🧑‍💻 Most Used Languages:</h3>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=jitendrakumar99&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
