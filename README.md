@@ -13,10 +13,10 @@
 
 <h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/jitendrakumar99/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/jitendra-kumar-530b78260/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
   </a>
-  <a href="mailto:jitendrakumar99@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:kumarjitendra6839@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" width="40" height="40"/>
   </a>
 </p>
@@ -81,12 +81,7 @@
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img height="194" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jitendrakumar99&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jitendrakumar99&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jitendrakumar99&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jitendrakumar99&" alt="GitHub Streak Stats" />
-</p>
+
