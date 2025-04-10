@@ -22,6 +22,13 @@
   <a href="mailto:kumarjitendra6839@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" width="40" height="40"/>
   </a>
+  <a href="https://portfolio-pink-kappa-60.vercel.app/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/ios-filled/50/000000/briefcase.png" alt="portfolio" width="40" height="40"/>
+</a>
+
+
+
+
 </p>
 
 ---
