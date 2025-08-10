@@ -2,14 +2,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Jitendra Kumar</h1>
-<h3 align="center">A Passionate Full Stack Developer With React Native from India</h3>
+<h3 align="center">A Passionate Full Stack Developer With React & Nextjs from India</h3>
 
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendrakumar99&label=Profile%20views&color=0e75b6&style=flat" alt="jitendrakumar99" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jitendrakumar99" alt="jitendrakumar99" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 ---
 
 <p align="center">
@@ -19,6 +13,13 @@
 </p>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendrakumar99&label=Profile%20views&color=0e75b6&style=flat" alt="jitendrakumar99" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jitendrakumar99" alt="jitendrakumar99" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+---
 
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-pink-kappa-60.vercel.app/)  
@@ -26,7 +27,7 @@
 - 📘 Follow me on [Facebook](https://www.facebook.com/your-username/)  
 - 🧩 Check out my coding profiles: [LeetCode](https://leetcode.com/u/Jitendra_kumar11/) | [GeeksforGeeks](https://www.geeksforgeeks.org/user/kumarjitealxt/) | [CodeChef](https://www.codechef.com/users/jitendra111)
 
-
+---
 <h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/jitendra-kumar-530b78260/" target="_blank" rel="noreferrer">
@@ -136,6 +137,7 @@
 </p>
 
 ---
+<h3 align="left">📊 GitHub Streak:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jitendrakumar99&" alt="jitendrakumar99" /></p>
 
 
