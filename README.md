@@ -15,7 +15,11 @@
 ---
 
 
-- 👨‍💻 All of my projects are available at [https://portfolio-pink-kappa-60.vercel.app/](https://portfolio-pink-kappa-60.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-pink-kappa-60.vercel.app/)  
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/jitendrakumar99/)  
+- 📘 Follow me on [Facebook](https://www.facebook.com/your-username/)  
+- 🧩 Check out my coding profiles: [LeetCode](https://leetcode.com/u/Jitendra_kumar11/) | [GeeksforGeeks](https://www.geeksforgeeks.org/user/kumarjitealxt/) | [CodeChef](https://www.codechef.com/users/jitendra111)
+
 
 <h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
@@ -89,7 +93,29 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://cursor.sh/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="cursor" width="40" height="40"/>
+  </a>
+  <a href="https://codeium.com/windsurf" target="_blank" rel="noreferrer">
+    <img src="https://codeium.com/_next/static/media/codeium_logo_dark.2b2f9a63.svg" alt="windsurf" width="40" height="40"/>
+  </a>
+  <a href="https://openai.com/chatgpt" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40"/>
+  </a>
+<a href="https://codeium.com/windsurf" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/127962339?s=200&v=4" alt="windsurf" width="40" height="40"/>
+</a>
+
+
+
 </p>
+
 
 ---
 
