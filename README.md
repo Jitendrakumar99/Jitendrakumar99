@@ -5,6 +5,12 @@
 <h3 align="center">A Passionate Full Stack Developer With React Native from India</h3>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendrakumar99&label=Profile%20views&color=0e75b6&style=flat" alt="jitendrakumar99" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jitendrakumar99" alt="jitendrakumar99" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
 <p align="center">
 🌟 I specialize in building scalable and intuitive web and mobile applications using <strong>React Native</strong> and the <strong>MERN Stack</strong>.  
@@ -128,4 +134,8 @@
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=jitendrakumar99&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
+
+---
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jitendrakumar99&" alt="jitendrakumar99" /></p>
+
 
