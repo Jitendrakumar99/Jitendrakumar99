@@ -25,7 +25,7 @@
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-pink-kappa-60.vercel.app/)
 - 🌐 Check out my live website(BLOG): [Pageengineer](https://pageengineer.com)
 - 🌐 Check out my live website(ECOMMERCE): [WoodZi](https://woodzi.in)
-- 🌐 Check out my live website(FREE API): [Playground](https://playground.pageengineer.com)
+- 🌐 Check out my live website(FREE API): [Playground](https://app.pageengineer.com)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/jitendrakumar99/)  
 - 📘 Follow me on [Facebook](https://www.facebook.com/your-username/)  
 - 🧩 Check out my coding profiles: [LeetCode](https://leetcode.com/u/Jitendra_kumar11/) | [GeeksforGeeks](https://www.geeksforgeeks.org/user/kumarjitealxt/) | [CodeChef](https://www.codechef.com/users/jitendra111)
